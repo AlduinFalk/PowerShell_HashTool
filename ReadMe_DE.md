@@ -42,3 +42,7 @@ Speichern Sie das Skript an einem beliebigen Ort auf Ihrem System, z. B. im Ordn
 
 ## Sicherheitshinweis
 Stellen Sie sicher, dass Sie Skripte nur von vertrauenswürdigen Quellen ausführen.
+SHA512 von HashTool.ps1
+```text
+2F64D8D4D5DFD09EB191454A3FEF7D7BEE22864BA7A5D27E29AA60A475AFE9358AE5C3ADE4F159CC4A16B3043D830A1766152CE5EA9F7FE91D52725A7D99D60D
+```
