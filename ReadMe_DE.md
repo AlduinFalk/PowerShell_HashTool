@@ -1,5 +1,3 @@
-# ReadMe: PowerShell File Hash Checker
-
 ## Überblick
 Dieses PowerShell-Skript ermöglicht es, den Hash-Wert einer Datei zu berechnen und zu überprüfen. Es unterstützt verschiedene Hash-Algorithmen wie MD5, SHA1, SHA256, SHA384 und SHA512. Das Skript kann unter Windows 10 und Windows 11 verwendet werden.
 
