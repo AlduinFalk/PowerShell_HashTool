@@ -12,10 +12,10 @@ Before running the script, you need to ensure that PowerShell scripts are allowe
    ```
 3. Confirm the prompt by selecting `Yes`.
 
-You can reset the policy to "Restricted" anytime using the following command:
-```powershell
-Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
-```
+   You can reset the policy to "Restricted" anytime using the following command:
+   ```powershell
+   Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
+   ```
 
 ## Installation
 Save the script to any location on your system, such as the `Documents` folder or the desktop.
