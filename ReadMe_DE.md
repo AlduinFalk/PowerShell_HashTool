@@ -12,10 +12,10 @@ Bevor Sie das Skript ausführen, müssen Sie sicherstellen, dass PowerShell-Skri
    ```
 3. Bestätigen Sie die Eingabeaufforderung mit `Ja`.
 
-Sie können die Richtlinie nach Bedarf jederzeit wieder auf "Restricted" zurücksetzen, indem Sie den folgenden Befehl verwenden:
-```powershell
-Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
-```
+   Sie können die Richtlinie nach Bedarf jederzeit wieder auf "Restricted" zurücksetzen, indem Sie den folgenden Befehl verwenden:
+   ```powershell
+   Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Restricted
+   ```
 
 ## Installation
 Speichern Sie das Skript an einem beliebigen Ort auf Ihrem System, z. B. im Ordner `Dokumente` oder auf dem Desktop.
